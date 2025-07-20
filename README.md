@@ -16,11 +16,12 @@ By using this code, you **agree** to do so in a **legal** and **ethical manner**
 
 ## 📋 Table of Contents
 
-- [Features](#-features)
-- How It Works
-- Prerequisites
-- Installation & Usage
-- Log File Format
+- [Features](#-✨-features)
+- [How It Works](#-⚙️-how-it-works)
+- [Prerequisites](#-📦-prerequisites)
+- [Installation & Usage](#-🛠-installation-&-usage)
+- [Log File Format](#-📄-log-file-format)
+- [About Author](#-👨‍💻-author)
 
 ---
 
@@ -55,7 +56,7 @@ The script uses the ```pynput``` library to listen for global keyboard events (k
 
 ---
 
-## 🚀 Installation & Usage
+## 🛠 Installation & Usage
 
 1. Clone the repository:
    ```sh

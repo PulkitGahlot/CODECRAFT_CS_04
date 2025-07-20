@@ -16,12 +16,12 @@ By using this code, you **agree** to do so in a **legal** and **ethical manner**
 
 ## 📋 Table of Contents
 
-- [Features](#-✨-features)
-- [How It Works](#-⚙️-how-it-works)
-- [Prerequisites](#-📦-prerequisites)
-- [Installation & Usage](#-🛠-installation-&-usage)
-- [Log File Format](#-📄-log-file-format)
-- [About Author](#-👨‍💻-author)
+- [Features](#-features)
+- [How It Works](#-how-it-works)
+- [Prerequisites](#-prerequisites)
+- [Installation & Usage](#-installation-&-usage)
+- [Log File Format](#-log-file-format)
+- [About Author](#-author)
 
 ---
 

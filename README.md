@@ -93,7 +93,7 @@ The ```key_log.txt``` file contains the captured data. Each entry is on a new li
 ```YYYY-MM-DD HH:MM:SS,ms: [LOGGED_DATA]```
 
 Example from ```key_log.txt```:
-    ```
+
     2025-07-19 19:30:40,487: This
     2025-07-19 19:30:40,488: [SPACE]
     2025-07-19 19:30:40,847: is
@@ -102,7 +102,6 @@ Example from ```key_log.txt```:
     2025-07-19 19:30:41,187: [SPACE]
     2025-07-19 19:30:43,976: test
     2025-07-19 19:30:46,064: [ENTER]
-    ```
 
 ---
 

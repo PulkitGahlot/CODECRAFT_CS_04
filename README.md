@@ -29,7 +29,7 @@ By using this code, you **agree** to do so in a **legal** and **ethical manner**
 
 - **Keystroke Logging**: Captures both alphanumeric characters and special keys (e.g., [SHIFT], [ENTER], [SPACE]).
 - **Word Buffering**: Groups individual characters into words and logs them when a space or enter is pressed, making the log file more readable.
-- **Timestamping**: Each logged entry is timestamped (YYYY-MM-DD HH:MM:SS,ms).
+- **Timestamping**: Each logged entry is timestamped ```(YYYY-MM-DD HH:MM:SS,ms)```.
 - **Local File Storage**: Saves all captured keystrokes to a local file named key_log.txt.
 - **Clean Exit**: The logger can be stopped safely by pressing the ```Shift + S``` key combination.
 
